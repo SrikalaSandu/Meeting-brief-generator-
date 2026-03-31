@@ -40,15 +40,6 @@ That's it. It calls the Anthropic API directly from the browser.
 
 ---
 
-## How to deploy (GitHub Pages)
-
-1. Fork or upload this repo to your GitHub account
-2. Go to **Settings → Pages**
-3. Under **Source**, select `Deploy from a branch`
-4. Choose `main` branch → `/ (root)` → click **Save**
-5. Wait ~60 seconds → your site is live at:
-   `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/meeting-brief-generator.html`
-
 ---
 
 ## Project
